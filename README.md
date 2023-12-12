@@ -1,12 +1,12 @@
 # sivashankar
 <h1 align="center">Hi 👋, I'm SivaShankar Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1fKtusL0Aq24bTqyANir_x&ust=1702443193278000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKClsaeNiYMDFQAAAAAdAAAAABAD">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivashankarreddy1&label=Profile%20views&color=0e75b6&style=flat" alt="sivashankarreddy1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **java ,sql**
+- 💬 Ask me about **Java ,SQL,COREJAVA,WEB TECHNOLOGY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
